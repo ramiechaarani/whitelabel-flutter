@@ -1,0 +1,7 @@
+# pubspec.yaml
+name: config
+description: Config for Clients.
+version: 1.0.0
+
+environment:
+  sdk: ">=2.2.0 <3.0.0"
